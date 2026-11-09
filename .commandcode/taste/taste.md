@@ -1,0 +1,1 @@
+- This is a learning project; the user wants to understand as many lines of code as possible and learn how ESP32/BLE/embedded development works, so explain deeply and teach the underlying concepts. Confidence: 0.9
